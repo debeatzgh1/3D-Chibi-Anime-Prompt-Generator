@@ -32,7 +32,7 @@ Transform your photos into detailed prompts for creating adorable 3D chibi anime
 
 ## 🚀 Live Demo
 
-Visit the live demo: [3D Chibi Anime Prompt Generator](https://yourusername.github.io/3d-chibi-prompt-generator)
+Visit the live demo: [3D Chibi Anime Prompt Generator](https://appdategh.blogspot.com/p/3d-chibi-anime-prompt-generator-margin.html))
 
 ## 📦 Installation & Usage
 
